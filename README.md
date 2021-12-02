@@ -4,4 +4,4 @@
 
 
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=i9mos1g5d2m5vackjh27bsfvj&count={count})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=i9mos1g5d2m5vackjh27bsfvj&width={width})
